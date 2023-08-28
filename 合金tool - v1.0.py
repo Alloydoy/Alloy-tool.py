@@ -1,3 +1,4 @@
+#合金doy 版本号：1.0
 import os
 import keyboard
 
